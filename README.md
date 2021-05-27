@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**oitnes/oitnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **About me**
 
-Here are some ideas to get you started:
+Hi, my name is Sergey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I was graduated Belarus State University at 2018. After that I worked at several companies with different technologies. That gave me a lot experience in most of software development areas.
+
+**Competencies:** *BlockChain, Mashine Learning, Computer Vision, C++, Python3, Java7, JavaScript, Objective-C, Pytorch, Tensorflow, OpenCV, Docker*
+
+
+**GitHub Activity:**
+
+<img src="https://github-readme-stats.vercel.app/api?username=oitnes&show_icons=true&hide_title=true"/>  
+
+## **Contact** 🎣
+
+🦊 GitHub: [oitnes](https://github.com/oitnes)
+
+👔 LinkedIn: [ssadouski](https://www.linkedin.com/in/ssadouski/)
+
+📬 Email: [s.sadovski.z@gmail.com](mailto:s.sadovski.z@gmail.com?subject=GitHub%20Website)
