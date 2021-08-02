@@ -3,9 +3,9 @@
 
 Hi, my name is Sergey
 
-I was graduated Belarus State University at 2018. After that I worked at several companies with different technologies. That gave me a lot experience in most of software development areas.
+I was graduated Belarus State University at 2018. After that I worked at several companies (startups also) with different inovative technologies. That gave me a lot experience in most of software development areas.
 
-**Competencies:** *BlockChain, Mashine Learning, Computer Vision, C++, Python3, Java7, JavaScript, Objective-C, Pytorch, Tensorflow, OpenCV, Docker*
+**Competencies:** *BlockChain, Mashine Learning, Deep Learning, Computer Vision, Natural Language Processing, C++, Python3, JavaScript, Objective-C, Swift, Pytorch, Tensorflow, OpenCV, Pandas, Docker*
 
 
 **GitHub Activity:**
