@@ -3,9 +3,9 @@
 
 Hi, my name is Sergey
 
-I was graduated Belarus State University at 2018. After that I worked at several companies (startups also) with different inovative technologies. That gave me a lot experience in most of software development areas.
+I was graduated Belarus State University at 2018. My specialization is radiophysics but I like pragramming. After graduation I worked at several IT companies (startups also) with different inovative technologies like Mashine Learning and Blockchain. That gave me a lot experience in most of software development areas.
 
-**Competencies:** *BlockChain, Mashine Learning, Deep Learning, Computer Vision, Natural Language Processing, C++, Python3, JavaScript, Objective-C, Swift, Pytorch, Tensorflow, OpenCV, Pandas, Docker*
+**Competencies:** *BlockChain, Mashine Learning, Deep Learning, Computer Vision, Natural Language Processing, Mobile development, Java 7, C++, Python 3, JavaScript, Objective-C, Swift, Pytorch, Tensorflow, OpenCV, Pandas, Docker*
 
 
 **GitHub Activity:**
@@ -14,8 +14,6 @@ I was graduated Belarus State University at 2018. After that I worked at several
 
 ## **Contact** 🎣
 
-🦊 GitHub: [oitnes](https://github.com/oitnes)
-
 👔 LinkedIn: [ssadouski](https://www.linkedin.com/in/ssadouski/)
 
-📬 Email: [s.sadovski.z@gmail.com](mailto:s.sadovski.z@gmail.com?subject=GitHub%20Website)
+📬 Email: [s.sadovski.z@gmail.com](mailto:s.sadovski.z@gmail.com)
