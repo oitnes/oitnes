@@ -1,6 +1,8 @@
 
 # **About me**
 
-Hi, my name is Sergey
+### Hi, my name is Sergey
 
-I was graduated Belarus State University at 2018. My educational specialization is radiophysics but I realy like pragramming and computer engineering. After graduation I worked at several IT companies (and IT startups) with different inovative technologies like Mashine Learning, Computer Vision and Blockchain. That gave me a lot experience in most of software development areas.
+I was graduated **Belarus State University** at **2018** as radiophysicist (information communication hardware/software system design). At university I was interested in software designing for complex highload systems more than hardware. After graduation I worked at several IT companies and startups as a **R&D engineer**. I have experiaence at different inovative technologies like **Data Mining**, **Computer Vision** and **Distributed/Blockchain systems** as well as integration this inovative systems with regular information systems/subsustems. Now I see my future in **mobile techonologies** and it apliance at real world, mainly at **Apple** ecosystem.
+
+See my [LinkedIn](https://linkedin.com/in/ssadouski/) profile for more details. See later.
