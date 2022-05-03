@@ -9,4 +9,4 @@ After graduation I worked at several IT companies and startups as a **Research &
 I have experience at development and using of different inovative technologies like **Computer Vision aplications**, **Distributed systems** and **Blockchain platforms** as well as regular information systems/platforms.
 Now I see application of my experience at **mobile techonologies** with apliance at mass problems in products, mainly at **Apple** ecosystem.
 
-See my [LinkedIn](https://linkedin.com/in/ssadouski/) profile for more details. See later.
+See my [LinkedIn](https://linkedin.com/in/ssadouski/) profile for more details.
